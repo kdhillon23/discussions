@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: #0000FF;
+}
+div h2 {
+    color:#000080;
+    filter: drop-shadow(5px 5px 2px #808080);
+}
+
+ul{
+    list-style-image:url('../images/tinyM.png')
+}
